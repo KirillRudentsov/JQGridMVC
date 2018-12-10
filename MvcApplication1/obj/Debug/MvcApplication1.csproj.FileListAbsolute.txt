@@ -1,0 +1,126 @@
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.xml
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Кирилл\Desktop\ASP.NET\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.Razor.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.xml
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.xml
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.Razor.xml
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.xml
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Helpers.resources.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+D:\учёбное\с#\ASP.NET\Отправка сообщений на mail (приглашения)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll.config
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Http.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Razor.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Http.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Razor.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Helpers.resources.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Http.resources.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+F:\TEMP\test\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll.config
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Http.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Razor.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Http.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.Razor.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Helpers.resources.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Http.resources.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csproj.CoreCompileInputs.cache
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csproj.CopyComplete
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+F:\Отправка сообщений на mail (ASP.NET + Bootstrap)\MvcApplication1\MvcApplication1\bin\Trirand.Web.Mvc.dll
